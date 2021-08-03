@@ -6,6 +6,6 @@ Task: From the given ‘Iris’ dataset, predict the optimum number of clusters 
 
 Libraries Used: Scikit Learn, Pandas, Numpy
 
-Dataset: Iris Dataset
+Dataset: Iris(https://bit.ly/3kXTdox)
 
 By- Prerana Kulkarni
